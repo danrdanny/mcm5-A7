@@ -1,0 +1,1 @@
+mcm5-28.realigned.bam 200 mcm5-28

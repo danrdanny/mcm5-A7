@@ -1,0 +1,1 @@
+fly99_10-1000_bpDel.bam 200 fly99_10-1000_bpDel
